@@ -1,0 +1,5 @@
+name: mark-biblioteca
+version: 1.0.0
+description: Consulta local de biblioteca del grupo compartido MARK.
+provides_tools:
+  - mark_biblioteca

@@ -1,0 +1,10 @@
+{
+  "cuentas": [
+    {
+      "id": "lector1",
+      "nombre": "Persona de ejemplo",
+      "carnet": "SUSTITUIR_POR_TU_CARNET",
+      "password": "SUSTITUIR_POR_TU_PASSWORD"
+    }
+  ]
+}
